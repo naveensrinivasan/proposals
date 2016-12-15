@@ -4,6 +4,6 @@ Use Jenkins and Kubernetes the powerful container automation framework for CI. I
 
 Tools used :-Kubernetes, Helm, Docker, Jenkins Pipeline, GKE
 
-![](jk-1.jpg)
-![](jk-2.jpg)![](jk-3.jpg)
+![](https://github.com/naveensrinivasan/proposals/raw/master/Look-ma-Jenkins-with-Kubernetes/jk-1.jpg)
+![](https://github.com/naveensrinivasan/proposals/raw/master/Look-ma-Jenkins-with-Kubernetes/jk-2.jpg)![](https://github.com/naveensrinivasan/proposals/raw/master/Look-ma-Jenkins-with-Kubernetes/jk-3.jpg)
 
